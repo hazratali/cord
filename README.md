@@ -26,4 +26,4 @@ CORD_Bib_Analysis Final.ipynb
 The complete jupyter notebook is available as a Google Colab on the following link. It also shows the output graphs and topic visualizations.
 [Colab link](https://colab.research.google.com/drive/1Vh-4KAz0GbCIwsI_A3J5pdhTj49IL-27?usp=sharing)
 
-
+The data used in this work was acquired from COVID-19 Open Research Dataset Challenge (CORD) organized by the Allen Institute for AI, and available on [Kaggle](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge). 
