@@ -1,8 +1,8 @@
-# CORD Bibiographic Data Analysis
+# CORD Bibliographic Data Analysis
 Code for analysis of bibliographic data to identify research gaps.
 Identifying research gaps in scientific literature is of utmost importance. We propose a machine learning-based approach for identifying research gaps through the analysis of scientific literature. 
 
-This is supplementary material for paper Alaa Ali Abd-alrazaq et al., "A Machine Learning–Based Approach for Identifying Research Gaps: COVID-19 as a Case Study"
+This is supplementary material for the paper __Alaa Ali Abd-alrazaq et al., "A Machine Learning–Based Approach for Identifying Research Gaps: COVID-19 as a Case Study"__ (currently under review).
 
 # Updated notebook (new)
 All the code is combined and placed in the main notebook  
