@@ -11,6 +11,7 @@ CORD_Bib_Analysis Final.ipynb
 ```
 ## Google Colab
 The complete jupyter notebook is available as a Google Colab on the following link. It also shows the output graphs and topic visualizations.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vh-4KAz0GbCIwsI_A3J5pdhTj49IL-27?usp=sharing)
 
 [Colab link](https://colab.research.google.com/drive/1Vh-4KAz0GbCIwsI_A3J5pdhTj49IL-27?usp=sharing)
