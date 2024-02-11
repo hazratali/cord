@@ -2,7 +2,12 @@
 Code for analysis of bibliographic data to identify research gaps.
 Identifying research gaps in scientific literature is of utmost importance. We propose a machine learning-based approach for identifying research gaps through the analysis of scientific literature. 
 
-This is supplementary material for the paper __Alaa Ali Abd-alrazaq et al., "A Machine Learning–Based Approach for Identifying Research Gaps: COVID-19 as a Case Study"__ (currently under review).
+This is supplementary material for the paper __Alaa Ali Abd-alrazaq et al., "A Machine Learning–Based Approach for Identifying Research Gaps: COVID-19 as a Case Study"__ (accepted at JMIR Formative Research).
+
+## How to cite?
+```
+Alaa Abdalrazaq et al., A Machine Learning–Based Approach for Identifying Research Gaps: COVID-19 as a Case Study, JMIR Formative Research, February 2024. doi: 10.2196/49411
+```
 
 # Updated notebook (new)
 All the code is combined and placed in the main notebook  
